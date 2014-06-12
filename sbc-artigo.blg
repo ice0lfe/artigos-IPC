@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: sbc-artigo.aux
+The style file: sbc.bst
+Database file #1: sbc-template.bib
+Warning--entry type for "santos:11" isn't style-file defined
+--line 27 of file sbc-template.bib
+Warning--entry type for "oliva:11" isn't style-file defined
+--line 33 of file sbc-template.bib
+Warning--empty year in oliva:11
+Warning--empty year in santos:11
+You've used 5 entries,
+            1935 wiz_defined-function locations,
+            498 strings with 4189 characters,
+and the built_in function-call counts, 1733 in all, are:
+= -- 170
+> -- 59
+< -- 6
++ -- 19
+- -- 17
+* -- 114
+:= -- 308
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 32
+chr.to.int$ -- 5
+cite$ -- 7
+duplicate$ -- 79
+empty$ -- 131
+format.name$ -- 26
+if$ -- 350
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 26
+num.names$ -- 19
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 32
+quote$ -- 0
+skip$ -- 57
+stack$ -- 0
+substring$ -- 94
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 28
+warning$ -- 2
+while$ -- 15
+width$ -- 0
+write$ -- 60
+(There were 4 warnings)
