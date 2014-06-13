@@ -2,52 +2,47 @@ This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sbc-artigo.aux
 The style file: sbc.bst
+I found no \citation commands---while reading file sbc-artigo.aux
 Database file #1: sbc-template.bib
-Warning--entry type for "santos:11" isn't style-file defined
---line 27 of file sbc-template.bib
-Warning--entry type for "oliva:11" isn't style-file defined
---line 33 of file sbc-template.bib
-Warning--empty year in oliva:11
-Warning--empty year in santos:11
-You've used 5 entries,
+You've used 0 entries,
             1935 wiz_defined-function locations,
-            498 strings with 4189 characters,
-and the built_in function-call counts, 1733 in all, are:
-= -- 170
-> -- 59
-< -- 6
-+ -- 19
-- -- 17
-* -- 114
-:= -- 308
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 32
-chr.to.int$ -- 5
-cite$ -- 7
-duplicate$ -- 79
-empty$ -- 131
-format.name$ -- 26
-if$ -- 350
+            471 strings with 3680 characters,
+and the built_in function-call counts, 17 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 0
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 26
-num.names$ -- 19
-pop$ -- 38
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 0
 quote$ -- 0
-skip$ -- 57
+skip$ -- 1
 stack$ -- 0
-substring$ -- 94
-swap$ -- 12
-text.length$ -- 1
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
-warning$ -- 2
-while$ -- 15
+type$ -- 0
+warning$ -- 0
+while$ -- 0
 width$ -- 0
-write$ -- 60
-(There were 4 warnings)
+write$ -- 2
+(There was 1 error message)
