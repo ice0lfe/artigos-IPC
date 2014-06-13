@@ -3,51 +3,48 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: sbc-template.aux
 The style file: sbc.bst
 Database file #1: sbc-template.bib
-Warning--entry type for "santos:11" isn't style-file defined
---line 27 of file sbc-template.bib
-Warning--entry type for "oliva:11" isn't style-file defined
---line 33 of file sbc-template.bib
-Warning--empty year in oliva:11
-Warning--empty year in santos:11
-You've used 5 entries,
+Warning--entry type for "signi:etmo" isn't style-file defined
+--line 19 of file sbc-template.bib
+Warning--empty year in signi:etmo
+You've used 1 entry,
             1935 wiz_defined-function locations,
-            497 strings with 4181 characters,
-and the built_in function-call counts, 1733 in all, are:
-= -- 170
-> -- 59
-< -- 6
-+ -- 19
-- -- 17
-* -- 114
-:= -- 308
-add.period$ -- 15
-call.type$ -- 5
-change.case$ -- 32
-chr.to.int$ -- 5
-cite$ -- 7
-duplicate$ -- 79
-empty$ -- 131
-format.name$ -- 26
-if$ -- 350
+            473 strings with 3717 characters,
+and the built_in function-call counts, 251 in all, are:
+= -- 24
+> -- 7
+< -- 1
++ -- 2
+- -- 2
+* -- 13
+:= -- 53
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 6
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 10
+empty$ -- 16
+format.name$ -- 3
+if$ -- 44
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 26
-num.names$ -- 19
-pop$ -- 38
+missing$ -- 0
+newline$ -- 7
+num.names$ -- 3
+pop$ -- 6
 preamble$ -- 1
-purify$ -- 32
+purify$ -- 6
 quote$ -- 0
-skip$ -- 57
+skip$ -- 8
 stack$ -- 0
-substring$ -- 94
-swap$ -- 12
-text.length$ -- 1
+substring$ -- 12
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
-warning$ -- 2
-while$ -- 15
+type$ -- 6
+warning$ -- 1
+while$ -- 2
 width$ -- 0
-write$ -- 60
-(There were 4 warnings)
+write$ -- 11
+(There were 2 warnings)
