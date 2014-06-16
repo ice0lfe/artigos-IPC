@@ -4,7 +4,11 @@
 7GRAUS.
 \newblock Significado de Ética e moral.
 
-\bibitem[IBGE ]{censo:10}
+\bibitem[IBGE a]{censo:00}
+IBGE.
+\newblock Censo demográfico 2000 - resultados do universo.
+
+\bibitem[IBGE b]{censo:10}
 IBGE.
 \newblock Resultados do universo do censo demográfico 2010.
 
