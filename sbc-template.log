@@ -1,8 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.30)  17 JUN 2014 16:22
 =======
 This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.30)  17 JUN 2014 10:47
 >>>>>>> 23edson-master
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.30)  17 JUN 2014 16:31
+=======
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.30)  17 JUN 2014 16:22
+>>>>>>> e8a808560c35a4676fa63c92edacc21aaaea348e
+>>>>>>> origin-
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
